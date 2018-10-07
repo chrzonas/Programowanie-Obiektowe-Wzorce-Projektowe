@@ -16,4 +16,4 @@ public class HanoiRhymer extends defaultCountingOutRhymer {
 	}
 }
 
-//Alt + strzalka przechodzi miedzy otwartymi pilkami
+// Alt + strzalka przechodzi miedzy otwartymi pilkami
